@@ -27,7 +27,7 @@ run
 ![msfconsole 2](https://user-images.githubusercontent.com/79763515/147129528-5602c8cd-b5e5-4169-82bb-08388bf0d735.png)
 
 
-As you can see from the image we got the system.
+As you can see we got the system.
 
 
 
