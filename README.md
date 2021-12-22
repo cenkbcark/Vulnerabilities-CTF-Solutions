@@ -1,1 +1,1 @@
-# Shellshock-Vulnerability
+# CTF Solutions
